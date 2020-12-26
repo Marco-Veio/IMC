@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1465525778 source:c:\users\marco aurélio\documents\codeblocks\projetos\imc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1476908254 source:c:\users\marco aurélio\documents\codeblocks\projetos\outdated imc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
